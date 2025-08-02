@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 
 import 'camerapage.dart';
 
-class LivenessCam {
+class LivenessCamera {
   final _methodChannel = const MethodChannel('liveness_cam');
 
   ///starting camera
