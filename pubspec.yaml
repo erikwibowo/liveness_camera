@@ -1,4 +1,4 @@
-name: liveness_cam
+name: liveness_camera
 description: Liveness camera for detecting fraud or detecting real person selfie
 version: 0.0.7
 homepage: https://kakzaki.dev
