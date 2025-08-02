@@ -1,4 +1,4 @@
-package id.kakzaki.liveness_cam_example
+package id.kakzaki.liveness_camera_example
 
 import io.flutter.embedding.android.FlutterActivity
 

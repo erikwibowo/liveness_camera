@@ -14,7 +14,7 @@ import androidx.core.content.ContextCompat
 import id.kakzaki.core.common.EXTRA_ERROR_MESSAGE
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
-import id.kakzaki.liveness_cam.R
+import id.kakzaki.liveness_camera.R
 
 abstract class BaseCameraActivity : AppCompatActivity() {
     lateinit var cameraExecutor: ExecutorService

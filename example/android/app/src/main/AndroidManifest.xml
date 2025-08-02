@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="id.kakzaki.liveness_cam_example">
+    package="id.kakzaki.liveness_camera_example">
    <application
-        android:label="liveness_cam_example"
+        android:label="liveness_camera_example"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

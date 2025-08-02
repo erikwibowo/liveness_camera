@@ -1,9 +1,9 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint liveness_cam.podspec` to validate before publishing.
+# Run `pod lib lint liveness_camera.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'liveness_cam'
+  s.name             = 'liveness_camera'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter project.'
   s.description      = <<-DESC

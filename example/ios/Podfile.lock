@@ -39,7 +39,7 @@ PODS:
   - GoogleUtilitiesComponents (1.1.0):
     - GoogleUtilities/Logger
   - GTMSessionFetcher/Core (1.7.2)
-  - liveness_cam (0.0.1):
+  - liveness_camera (0.0.1):
     - Flutter
   - MLImage (1.0.0-beta2)
   - MLKitCommon (5.0.0):
@@ -74,7 +74,7 @@ DEPENDENCIES:
   - Flutter (from `Flutter`)
   - google_mlkit_commons (from `.symlinks/plugins/google_mlkit_commons/ios`)
   - google_mlkit_face_detection (from `.symlinks/plugins/google_mlkit_face_detection/ios`)
-  - liveness_cam (from `.symlinks/plugins/liveness_cam/ios`)
+  - liveness_camera (from `.symlinks/plugins/liveness_camera/ios`)
 
 SPEC REPOS:
   trunk:
@@ -101,8 +101,8 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/google_mlkit_commons/ios"
   google_mlkit_face_detection:
     :path: ".symlinks/plugins/google_mlkit_face_detection/ios"
-  liveness_cam:
-    :path: ".symlinks/plugins/liveness_cam/ios"
+  liveness_camera:
+    :path: ".symlinks/plugins/liveness_camera/ios"
 
 SPEC CHECKSUMS:
   camera_avfoundation: 07c77549ea54ad95d8581be86617c094a46280d9
@@ -115,7 +115,7 @@ SPEC CHECKSUMS:
   GoogleUtilities: e0913149f6b0625b553d70dae12b49fc62914fd1
   GoogleUtilitiesComponents: 679b2c881db3b615a2777504623df6122dd20afe
   GTMSessionFetcher: 5595ec75acf5be50814f81e9189490412bad82ba
-  liveness_cam: 5cc80b13112e5f78b425cd16f6e4a1bcaf9071e2
+  liveness_camera: 5cc80b13112e5f78b425cd16f6e4a1bcaf9071e2
   MLImage: a454f9f8ecfd537783a12f9488f5be1a68820829
   MLKitCommon: 3bc17c6f7d25ce3660f030350b46ae7ec9ebca6e
   MLKitFaceDetection: 617cb847441868a8bfd4b48d751c9b33c1104948

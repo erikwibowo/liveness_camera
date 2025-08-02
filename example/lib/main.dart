@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:liveness_cam/liveness_cam.dart';
+import 'package:liveness_camera/liveness_camera.dart';
 
 void main() {
   runApp(const MyApp());

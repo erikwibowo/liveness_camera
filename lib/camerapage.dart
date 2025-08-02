@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:liveness_cam/src/smart_face_camera.dart';
+import 'package:liveness_camera/src/smart_face_camera.dart';
 
 class CameraPage extends StatefulWidget {
   const CameraPage({Key? key}) : super(key: key);

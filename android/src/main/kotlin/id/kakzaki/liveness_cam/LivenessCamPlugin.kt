@@ -1,4 +1,4 @@
-package id.kakzaki.liveness_cam
+package id.kakzaki.liveness_camera
 
 import android.app.Activity
 import android.content.Intent
@@ -29,7 +29,7 @@ class LivenessCamPlugin: FlutterPlugin, MethodCallHandler, ActivityAware, Plugin
   private var livenessDetectionCode = 101
 
   override fun onAttachedToEngine(@NonNull flutterPluginBinding: FlutterPluginBinding) {
-    channel = MethodChannel(flutterPluginBinding.binaryMessenger, "liveness_cam")
+    channel = MethodChannel(flutterPluginBinding.binaryMessenger, "liveness_camera")
     channel.setMethodCallHandler(this)
    // context = flutterPluginBinding.applicationContext
     pluginBinding = flutterPluginBinding

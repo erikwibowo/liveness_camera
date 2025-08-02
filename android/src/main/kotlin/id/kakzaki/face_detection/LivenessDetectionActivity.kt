@@ -22,7 +22,7 @@ import id.kakzaki.core.GraphicOverlay
 import id.kakzaki.core.base.BaseCameraActivity
 import id.kakzaki.core.common.EXTRA_RESULT
 import id.kakzaki.core.common.alert
-import id.kakzaki.liveness_cam.R
+import id.kakzaki.liveness_camera.R
 import java.util.*
 import kotlin.concurrent.fixedRateTimer
 

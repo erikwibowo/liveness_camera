@@ -1,4 +1,4 @@
-group 'id.kakzaki.liveness_cam'
+group 'id.kakzaki.liveness_camera'
 version '1.0-SNAPSHOT'
 
 buildscript {

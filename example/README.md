@@ -1,6 +1,6 @@
-# liveness_cam_example
+# liveness_camera_example
 
-Demonstrates how to use the liveness_cam plugin.
+Demonstrates how to use the liveness_camera plugin.
 
 ## Getting Started
 

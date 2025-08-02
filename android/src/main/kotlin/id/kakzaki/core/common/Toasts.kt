@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.widget.TextView
 import android.widget.Toast
-import id.kakzaki.liveness_cam.R
+import id.kakzaki.liveness_camera.R
 
 
 fun Activity.showCustomToast(

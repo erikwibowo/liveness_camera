@@ -1,26 +1,27 @@
 # Liveness camera for detecting fraud or detecting real person selfie
 
-[![pub package](https://img.shields.io/pub/v/liveness_cam.svg)](https://pub.dev/packages/liveness_cam)
+[![pub package](https://img.shields.io/pub/v/liveness_camera.svg)](https://pub.dev/packages/liveness_camera)
 [![pub package](https://img.shields.io/twitter/follow/kakzaki_id.svg?colorA=1da1f2&colorB=&label=Follow%20on%20Twitter)](https://twitter.com/kakzaki_id)
 
 ## Platform Support
 
 | Android | iOS | MacOS | Web | Linux | Windows |
 | :-----: | :-: | :---: | :-: | :---: | :-----: |
-|   ✔️  |    ✔️  |   ️X    |  ️X   |  ️ X    |   ️X     |
-
+|   ✔️    | ✔️  |  ️X   | ️X  |  ️ X  |   ️X    |
 
 ## Android setup
+
 No specific setup required
 
 ## IOS
+
 No specific setup required
 
 ## EXAMPLE
 
     import 'dart:io';
     import 'package:flutter/material.dart';
-    import 'package:liveness_cam/liveness_cam.dart';
+    import 'package:liveness_camera/liveness_camera.dart';
 
     void main() {
         runApp(const MyApp());
@@ -28,14 +29,14 @@ No specific setup required
 
     class MyApp extends StatefulWidget {
         const MyApp({Key? key}) : super(key: key);
-    
+
         @override
         State<MyApp> createState() => _MyAppState();
     }
 
     class _MyAppState extends State<MyApp> {
         final _livenessCam = LivenessCam();
-    
+
         File? result;
 
         @override
@@ -78,7 +79,6 @@ No specific setup required
         );
       }
     }
-
 
 ## FUND
 
